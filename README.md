@@ -46,7 +46,7 @@ The dashboard provides insights into:
  
 
 ### Customer Analysis  
-[Customer Analysis](<img width="891" height="498" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/338fa37a-9a9a-46cf-aa33-f6dfe6a6bfd0" /> 
+[Customer Analysis]<img width="891" height="498" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/338fa37a-9a9a-46cf-aa33-f6dfe6a6bfd0" /> 
 
 ### OverView 
 [Overview Page Selection]
@@ -56,7 +56,7 @@ The dashboard provides insights into:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/global-electronics-retail-dashboard.git
+   git clone https://github.com/faith79-create/POWER-BI-CLUB-CAPSTONE-PROJECT/blob/main/README.md
 Open the Global_Electronics_Dashboard.pbix file in Power BI Desktop.
 
 Connect to the dataset (in data/processed/).
