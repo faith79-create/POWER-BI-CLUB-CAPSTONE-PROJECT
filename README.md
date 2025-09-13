@@ -1,6 +1,6 @@
 📊 Global Electronics Retail Store Report
 
-An interactive Excel/Power BI dashboard providing insights into sales performance, product revenue, customer behavior, and regional trends for a global electronics retail store.
+An interactive Power BI dashboard providing insights into sales performance, product revenue, customer behavior, and regional trends for a global electronics retail store.
 
 📌 Project Overview
 
