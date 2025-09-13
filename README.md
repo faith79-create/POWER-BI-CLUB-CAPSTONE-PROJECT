@@ -92,7 +92,7 @@ Gender Split: Male ($28M) vs Female ($27M)
 
 Clone this repository:
 
-git clone https://github.com/faith79-create/POWER-BI-CLUB-CAPSTONE-PROJECT/tree/main/global-electronics-dashboard.git
+git clone https://github.com/faith79-create/POWER-BI-CLUB-CAPSTONE-PROJECT/tree/main
 
 
 Open the Power BI file.
