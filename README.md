@@ -16,7 +16,7 @@ Customer purchasing behavior
 
 Sales by channels and demographics
 
-The dashboard is built with Excel (Pivot Tables, Charts, and Power Query) / Power BI, designed for management reporting and business intelligence.
+The dashboard is built with ( Charts, and Power Query & DAX Functions) / Power BI, designed for management reporting and business intelligence.
 
 🛠️ Tools & Technologies
 
@@ -27,6 +27,7 @@ Power BI (Interactive Dashboards, Data Modeling, DAX)
 Data Cleaning & Transformation techniques
 
 📂 Dashboard Features
+
 1️⃣ Sales Analysis
 
 Total Revenue, Profit, and Profit Margin %
@@ -37,6 +38,7 @@ Sales by region, country, and city
 
 Revenue vs. Profit bubble chart
 
+
 2️⃣ Product Analysis
 
 Top 5 and Bottom 5 products by revenue
@@ -46,6 +48,7 @@ Sales by product category & subcategory
 Regional sales performance
 
 Sales by channels
+
 
 3️⃣ Customer Analysis
 
@@ -89,7 +92,7 @@ Gender Split: Male ($28M) vs Female ($27M)
 
 Clone this repository:
 
-git clone https://github.com/yourusername/global-electronics-dashboard.git
+git clone https://github.com/faith79-create/POWER-BI-CLUB-CAPSTONE-PROJECT/tree/main/global-electronics-dashboard.git
 
 
 Open the Power BI file.
@@ -110,7 +113,7 @@ Faith Ihueze
 
 📧 Email: faithamaefule@yyahoo.com
 
-🐙 GitHub: 
+🐙 GitHub: https://github.com/faith79-create/POWER-BI-CLUB-CAPSTONE-PROJECT/tree/main
 
   
  
