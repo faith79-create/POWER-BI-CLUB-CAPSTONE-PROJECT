@@ -20,7 +20,7 @@ The dashboard is built with ( Charts, and Power Query & DAX Functions) / Power B
 
 🛠️ Tools & Technologies
 
-Microsoft Excel (Pivot Tables, Power Query, Charts, Slicers)
+CSV Data (Power Query, Charts, Slicers)
 
 Power BI (Interactive Dashboards, Data Modeling, DAX)
 
